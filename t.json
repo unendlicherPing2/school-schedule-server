@@ -1,0 +1,27 @@
+{
+    "hint": string,
+    "schedule": [
+        {
+            "teacher_token": string,
+            "teacher_forename": string,
+            "teacher_surname": string,
+            "sub_teacher_token": string,
+            "sub_teacher_surname": string,
+            "sub_teacher_forename": string,
+            "hour": string,
+            "block": string,
+            "subject_token": string,
+            "subject_long": string,
+            "sub_subject_token": string,
+            "sub_subject_long": string,
+            "class_token": string,
+            "class_long": string,
+            "hints": string,
+            "room_token": string,
+            "sub_room_token": string,
+            "sub_room_long": string,
+            "teacher": string ,
+            "sub_teacher": string,
+        }
+    ]
+}

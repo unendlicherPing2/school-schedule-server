@@ -1,0 +1,5 @@
+run:
+	go run main.go serve
+
+build:
+	CGO_ENABLED=0 go build
